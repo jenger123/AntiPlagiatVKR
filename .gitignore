@@ -1,0 +1,4 @@
+*.vcxproj*
+doc/latex*
+x64/Debug*
+.vs*
